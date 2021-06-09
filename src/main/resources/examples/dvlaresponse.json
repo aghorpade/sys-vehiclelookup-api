@@ -1,0 +1,19 @@
+{
+    "registrationNumber": "S3",
+    "co2Emissions": 165,
+    "engineCapacity": 2179,
+    "markedForExport": false,
+    "fuelType": "DIESEL",
+    "motStatus": "Valid",
+    "revenueWeight": 2505,
+    "colour": "SILVER",
+    "make": "LAND ROVER",
+    "typeApproval": "M1",
+    "yearOfManufacture": 2013,
+    "taxDueDate": "2021-10-01",
+    "taxStatus": "Taxed",
+    "dateOfLastV5CIssued": "2013-11-26",
+    "motExpiryDate": "2021-08-07",
+    "wheelplan": "2 AXLE RIGID BODY",
+    "monthOfFirstRegistration": "2013-06"
+}

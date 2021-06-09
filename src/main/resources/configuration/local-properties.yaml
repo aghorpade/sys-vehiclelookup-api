@@ -1,0 +1,6 @@
+dvla:
+  host: "driver-vehicle-licensing.api.gov.uk"
+  port: "443"
+  path: "/vehicle-enquiry/v1/vehicles"
+  api:
+    key: "V7KhhLvvnh9D0u8lA9Ucn1SJJF5O7TGN4Cl0qm4G"
